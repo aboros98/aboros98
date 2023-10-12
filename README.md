@@ -1,4 +1,1 @@
-### Hi there 👋
-
-
-i like to train neural networks 🫡 i truly agree that attention is all we need 🤯
+### e/λ - 1706.03762
